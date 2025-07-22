@@ -1,5 +1,8 @@
 ### PostgresSQL
 
+-   Username: amirralli300400@gmail.com
+-   Password: amirralli300400@gmail.com
+
 ```bash
 # Run the postgresql web dashboard
 cd /usr/pgadmin4 && source venv/bin/activate && python3 -u web/pgAdmin4.py
@@ -19,6 +22,9 @@ sudo ss -tunlp | grep postgresql
 ```
 
 ### RabbitMQ
+
+-   Username: guest
+-   Password: guest
 
 ```bash
 # Enable and start RabbitMQ
